@@ -48,6 +48,7 @@ A curated list of awesome CSS resources. Inspired by [awesome-php](https://githu
 * [Kube](http://imperavi.com/kube/)
 * [Base](http://matthewhartman.github.io/base/)
 * [IVORY Framework](http://weice.in/ivory/)
+* [Semantic UI](http://semantic-ui.com/)
 
 ## Preprocessor
 
