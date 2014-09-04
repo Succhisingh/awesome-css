@@ -61,6 +61,7 @@ A curated list of awesome CSS resources. Inspired by [awesome-php](https://githu
 ### Benchmark
 
 * [CSS Preprocessor Benchmark](http://www.solitr.com/blog/2014/01/css-preprocessor-benchmark/)
+* [CSS Minimizer Benchmark](https://github.com/eGavr/cmb)
 
 ## Architecture
 
