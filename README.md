@@ -69,6 +69,7 @@ A curated list of awesome CSS resources. Inspired by [awesome-php](https://githu
 * [oCSS](http://krasimir.github.io/organic-css/) - organic cascade style sheet
 * [SMACSS](http://smacss.com/) - Scalable and Modular Architecture for CSS
 * [BEM](http://bem.info/) - Block, Element, Modifier
+* [SUITCSS](https://suitcss.github.io) — Style tools for UI components
 
 ## Tools
 
