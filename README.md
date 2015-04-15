@@ -25,6 +25,7 @@ A curated list of awesome CSS resources. Inspired by [awesome-php](https://githu
 * [HTML5 Reset Stylesheet - html5 Doctor](http://html5doctor.com/html-5-reset-stylesheet/)
 * [Eric Meyer’s “Reset CSS” 2.0](http://meyerweb.com/eric/tools/css/reset/)
 * [CSS Reset](http://www.cssreset.com/)
+* [sanitize.css](http://jonathantneal.github.io/sanitize.css/)
 
 ## Framework
 
