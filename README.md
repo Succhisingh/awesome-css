@@ -105,6 +105,7 @@ A curated list of awesome CSS resources. Inspired by [awesome-php](https://githu
 * [W3C CSS Page](http://www.w3.org/Style/CSS/)
 * [CSS developer guide from MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS)
 * [HTML5 & CSS Development and Resources](http://oreilly.com/css-html/)
+* [Programming Community Curated Resources for learning CSS](https://hackr.io/tutorials/learn-css)
 
 ### Validation
 
